@@ -1,4 +1,4 @@
-OVERVIEW
+OVERVIEW<br>
 Tap Finder is a simple GUI application built using Tkinter in Python. The purpose of this application is to search for beers and breweries based on user input such as beer name, location (state), and beer style. The application connects to a PostgreSQL database named "tapfinder" and retrieves information about beers and breweries.
 
 
